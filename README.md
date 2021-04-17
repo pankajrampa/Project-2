@@ -1,6 +1,6 @@
 # Project-2
 TARIK HAMZA, ROD TUCKER &amp; PANKAJ RAMPAL
-Results Analysis and Conclusions
+
 
 1.The rolling-out-of sample approach is an approach more akin to real life (you likely re-estimate your model when new data becomes available).
 
